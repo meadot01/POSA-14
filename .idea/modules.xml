@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ex/BuggyQueue/BuggyQueue.iml" filepath="$PROJECT_DIR$/ex/BuggyQueue/BuggyQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/PingPong/PingPong.iml" filepath="$PROJECT_DIR$/ex/PingPong/PingPong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/ThreadedDownload/ThreadedDownload.iml" filepath="$PROJECT_DIR$/ex/ThreadedDownload/ThreadedDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/PingPong/console/console.iml" filepath="$PROJECT_DIR$/ex/PingPong/console/console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/week-1-assignment-0/week-1-assignment-0.iml" filepath="$PROJECT_DIR$/assignments/week-1-assignment-0/week-1-assignment-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/week-1-assignment-0-v2/week-1-assignment-0-v2.iml" filepath="$PROJECT_DIR$/assignments/week-1-assignment-0-v2/week-1-assignment-0-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grading-drivers/week-1-assignment-0/week-1-assignment-01.iml" filepath="$PROJECT_DIR$/grading-drivers/week-1-assignment-0/week-1-assignment-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/week-2-assignment-1/week-2-assignment-1.iml" filepath="$PROJECT_DIR$/assignments/week-2-assignment-1/week-2-assignment-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grading-drivers/week-2-assignment-1/week-2-assignment-11.iml" filepath="$PROJECT_DIR$/grading-drivers/week-2-assignment-1/week-2-assignment-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/week-3-assignment-2/week-3-assignment-2.iml" filepath="$PROJECT_DIR$/assignments/week-3-assignment-2/week-3-assignment-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/week-4-assignment-3/week-4-assignment-3.iml" filepath="$PROJECT_DIR$/assignments/week-4-assignment-3/week-4-assignment-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/week-5-assignment-4/week-5-assignment-4.iml" filepath="$PROJECT_DIR$/assignments/week-5-assignment-4/week-5-assignment-4.iml" />
+    </modules>
+  </component>
+</project>
+
